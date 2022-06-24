@@ -1,0 +1,37 @@
+body{
+    background: black;
+    color: white;
+   
+  }
+  h1, h2 {
+    color: Grey;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  ul {
+    border: 5px solid pink;
+  }
+  
+  ol {
+    border: 5px solid pink;
+  }
+  
+  ol, ul {
+    color: white;
+    padding: 7px 25px;
+    border-radius: 4px;
+  }
+  
+  h1, strong {
+    color: darkgreen;
+  }
+  
+  em {
+    color: pink;
+  }
+  
+  
+  
